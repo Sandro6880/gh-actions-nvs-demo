@@ -1,3 +1,13 @@
+# Important Links for this project
+
+https://htl-leonding-college.github.io/quarkus-jar-gh-actions-demo/gh-actions.html
+
+https://htl-leonding-college.github.io/quarkus-jar-gh-actions-demo/
+
+https://htl-leonding-college.github.io/quarkus-jar-gh-actions-demo/create-oravm.html
+
+https://2021-5bhif-nvs.github.io/2021-5bhif-nvs-lecture-notes/
+
 # gh-actions-nvs-demo project
 
 This project uses Quarkus, the Supersonic Subatomic Java Framework.
